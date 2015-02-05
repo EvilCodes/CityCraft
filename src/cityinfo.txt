@@ -1,0 +1,8 @@
+&6========== [ &aCityCraft &bINFO &6] ==========
+&6Name: &a%name%
+&6Tag: &a%tag%
+&6Buergermeister: &a%owner%
+&6Basis: &a%baseloc%
+&6Mitglieder: &a%members%
+&6Gekaufte Plätze: &a%boughtslots%
+&6========== [ &aCityCraft &bINFO &6] ==========

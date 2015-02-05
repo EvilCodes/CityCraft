@@ -1,0 +1,13 @@
+###MySQL Settings
+Database:
+   Host: "localhost"
+   Username: "root"
+   Password: "root"
+   Databasename: "citycraft"
+   Tableprefix: "cc_"
+###For sending debug messages
+Debug: false
+###Space between 2 cities (in blocks)
+Space: 1000
+###Max. taglenght of a city
+Lenght: 5

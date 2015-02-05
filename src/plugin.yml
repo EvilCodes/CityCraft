@@ -1,0 +1,12 @@
+name: CityCraft
+main: com.evilcodes.citycraft.CityCraft
+author: EvilCodes
+version: Alpha-1.0.1
+description: The CityCraft Coreplugin
+softdepend: [WorldEdit, WorldGuard]
+website: http://www.evilcodes.tk/
+commands:
+   city:
+      description: Maincommand and nothing more!
+      usage: /<command> <arg>
+      aliases: [citycraft]
